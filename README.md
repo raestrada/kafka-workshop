@@ -10,3 +10,8 @@
    - [Slides](https://raestrada.github.io/kafka-workshop-modulo03-slides-/)
    - Laboratorios:
       * [Ambiente local productivo y cliente/producto java](https://github.com/raestrada/kafka-workshop-modulo03-lab1)
+- **Módulo 4:** Productores/Consumidores
+  - [Slides](https://raestrada.github.io/kafka-workshop-modulo04-slides/)
+  - Laboratorios:
+      * Desarrollar usando como base [Ambiente local productivo y cliente/producto java](https://github.com/raestrada/kafka-workshop-modulo03-lab1)
+ 

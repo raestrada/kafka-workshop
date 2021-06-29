@@ -16,3 +16,5 @@
       * Desarrollar usando como base [Ambiente local productivo y cliente/producto java](https://github.com/raestrada/kafka-workshop-modulo03-lab1)
 - **Módulo 5:** Semánticas de entrega
    - [Slides](https://raestrada.github.io/kafka-workshop-modulo05-slides/)
+- **Módulo 6:** EDA y Kafka (orientado a MS)
+   - [Slides](https://raestrada.github.io/kafka-workshop-modulo06-slides/)

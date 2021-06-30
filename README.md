@@ -20,7 +20,9 @@
    - [Slides](https://raestrada.github.io/kafka-workshop-modulo06-slides/)
    - Laboratorios:
       * [Aplicación SAGA con coreografía corriendo dentro de k8s](https://github.com/raestrada/kafka-workshop-modulo06-lab1)
-
+- **Módulo 7:** AVRO, Registro de esquemas, streaming y batch
+   - [Slides](https://raestrada.github.io/kafka-workshop-modulo07-slides/)
+   
 
 ## Referencias
 
@@ -31,3 +33,4 @@
 - [Outbox orchestration](https://www.infoq.com/articles/saga-orchestration-outbox/)
 - [Event-Driven Microservices Architecture](https://www.confluent.io/resources/event-driven-microservices/?utm_medium=sem&utm_source=google&utm_campaign=ch.sem_br.nonbrand_tp.prs_tgt.dsa_mt.dsa_rgn.latam_lng.eng_dv.all_con.resources&utm_term=&creative=&device=c&placement=&gclid=CjwKCAjwieuGBhAsEiwA1Ly_nfPruNg5xAtmZG5jLI0umCbonqr1FEHS28BkNh_x09NgdGlc4AHVvhoCpFUQAvD_BwE)
 - [Ejemplos de EDA usando Debezium](https://github.com/debezium/debezium-examples)
+- [Introduction to Schema Registry in Kafka](https://medium.com/slalom-technology/introduction-to-schema-registry-in-kafka-915ccf06b902)
